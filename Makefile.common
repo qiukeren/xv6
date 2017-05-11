@@ -30,7 +30,7 @@ log_cmd_verbose_ = $(log_cmd_verbose_1)
 log_cmd_verbose_0 = @echo -n;
 log_cmd_verbose_1 = 
 
-QEMU = qemu
+QEMU = qemu-system-i386
 
 CC = gcc
 
